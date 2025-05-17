@@ -1,0 +1,9 @@
+{
+  "Result": {
+    "status": "rejected",
+    "data": {
+      "rejection_reason": "Project rejected: The project claims don't align with the codebase implementation. The project is an \"Adaptive MCQ Generator\" for general educational topics, as clearly stated in its own README and implemented in app.py. While it uses an LLM for question generation and has adaptive features (aligning with some criteria and skills), it is not specifically a \"math chatbot.\" The interface is a structured quiz system, not a conversational chatbot, and its scope is not limited to mathematics. This represents a significant misrepresentation based on the claimed project name."
+    },
+    "message": "Repository validation failed"
+  }
+}
